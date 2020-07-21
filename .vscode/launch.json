@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GreedyFlorist",
+            "request": "launch",
+            "mainClass": "Arrays.GreedyFlorist",
+            "projectName": "Algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
