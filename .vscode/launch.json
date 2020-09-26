@@ -1,7 +1,12 @@
 {
     "configurations": [
-        
-
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AllPathSum",
+            "request": "launch",
+            "mainClass": "AllPathSum",
+            "projectName": "all-about-DSA_1fe37034"
+        },
         {
             "type": "java",
             "name": "CodeLens (Launch) - GreedyFlorist",
